@@ -1,2 +1,2 @@
 # Web-animation-with-Lottie
-A simple web animation to test Lottie.
+A simple web animation for testing Lottie.
