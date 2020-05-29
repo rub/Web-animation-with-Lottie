@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import lottie from "lottie-web";
-import animationData from "./car.json";
+import animationData from "./data.json";
 import "./App.css";
 
 let animObj = null;
